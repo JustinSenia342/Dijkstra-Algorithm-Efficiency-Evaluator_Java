@@ -1,0 +1,43 @@
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 23 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 16 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 12 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 13 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 9 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 8 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 6 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 6 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 6 Milliseconds
+Matrix Size: 100x100 Time taken to calculate shortest paths using Dijkstra's algorithm: 8 Milliseconds
+
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 7 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 8 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 6 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 7 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 6 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 6 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 7 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 7 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 6 Milliseconds
+Matrix Size: 200x200 Time taken to calculate shortest paths using Dijkstra's algorithm: 6 Milliseconds
+
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 22 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 19 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 18 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 19 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 18 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 20 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 25 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 24 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 20 Milliseconds
+Matrix Size: 500x500 Time taken to calculate shortest paths using Dijkstra's algorithm: 18 Milliseconds
+
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 40 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 50 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 39 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 42 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 44 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 39 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 32 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 31 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 30 Milliseconds
+Matrix Size: 1000x1000 Time taken to calculate shortest paths using Dijkstra's algorithm: 32 Milliseconds
